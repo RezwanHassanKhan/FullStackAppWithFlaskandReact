@@ -4,7 +4,7 @@
 1. Creating VM Environment
 - python3 -m venv vence
 2. To activate the VM :
--source env/bin/activate
+-source venv/bin/activate
 3. How to deactivate :
 - deactivate 
 4. How to see all the installed dependencies : 
@@ -15,4 +15,12 @@
 -pip install -r requirements.txt
 7. How to delete a venv :
 - rm -rf venv
+```
+
+### Installing Flask:
+```console
+1. To install Flask
+- pip install Flask
+2.To check if its install correctly
+- pip show flask
 ```
