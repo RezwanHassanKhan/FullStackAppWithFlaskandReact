@@ -1,7 +1,7 @@
 # FullStackAppWithFlaskandReact
 ### VM Environment :
-1. Creating VM Environment
 ```console
+1. Creating VM Environment
 - python3 -m venv vence
 2. To activate the VM :
 -source env/bin/activate
